@@ -1,9 +1,11 @@
 .intro {
   font-style: italic;
+  max-height: 90px;
 }
 
 h1{
   color: rgb(226, 230, 237);
+  text-align: justify;
 }
 
 h2 {
