@@ -1,9 +1,14 @@
 .intro {
   font-style: italic;
 }
+
+h1{
+  color: rgb(226, 230, 237);
+}
+
 h2 {
   color: rgb(226, 230, 237);
- text-align: justify;
+  text-align: justify;
 }
 
 p {
@@ -13,5 +18,5 @@ p {
 }
 
 body {
-background-color: rgb(65, 65, 65);
+  background-color: rgb(23, 23, 23);
 }
