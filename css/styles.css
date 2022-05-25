@@ -1,22 +1,25 @@
 .intro {
   font-style: italic;
   max-height: 90px;
+  max-width: 200 px;
 }
 
 h1{
   color: rgb(226, 230, 237);
-  text-align: justify;
+  text-align: center;
+  text-transform: capitalize;
 }
 
 h2 {
-  color: rgb(226, 230, 237);
-  text-align: justify;
+  color: rgb(210, 210, 210);
+  text-align: center;
 }
 
 p {
   color: antiquewhite;
   font-family: sans-serif;
   text-align: left;
+  max-width: 400 px;
 }
 
 body {
