@@ -1,0 +1,17 @@
+.intro {
+  font-style: italic;
+}
+h2 {
+  color: rgb(226, 230, 237);
+ text-align: justify;
+}
+
+p {
+  color: antiquewhite;
+  font-family: sans-serif;
+  text-align: left;
+}
+
+body {
+background-color: rgb(65, 65, 65);
+}
