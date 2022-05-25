@@ -1,7 +1,13 @@
 .intro {
   font-style: italic;
-  max-height: 90px;
   max-width: 200 px;
+  font-weight: bolder;
+  text-decoration: wavy;
+  background-color: rgba(57, 34, 43, 0.208);
+}
+
+img{
+  max-height: 90px;  
 }
 
 h1{
@@ -19,7 +25,6 @@ p {
   color: antiquewhite;
   font-family: sans-serif;
   text-align: left;
-  max-width: 400 px;
 }
 
 body {
