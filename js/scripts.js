@@ -7,9 +7,4 @@ $(document).ready(function() {
   $("button#light").click(function() {
     $("body").removeClass();
   });
-
-  $("button#red").click(function() {
-    $("body").removeClass();
-    $("body").addClass("red-background");
-  });
 });
