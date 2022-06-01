@@ -1,12 +1,11 @@
 $(document).ready(function() {
   $("button#dark").click(function() {
     $("body").removeClass();
-    $("body").addClass("green-background");
+    $("body").addClass("dark-theme");
   });
 
-  $("button#yellow").click(function() {
+  $("button#light").click(function() {
     $("body").removeClass();
-    $("body").addClass("yellow-background");
   });
 
   $("button#red").click(function() {

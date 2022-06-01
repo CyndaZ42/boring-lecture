@@ -6,27 +6,25 @@
   background-color: rgba(57, 34, 43, 0.208);
 }
 
-.dark-theme img{
+img{
   max-height: 90px;  
 }
 
-.dark-theme h1{
-  color: rgb(226, 230, 237);
+h1{
   text-align: center;
   text-transform: capitalize;
 }
 
-.dark-theme h2 {
-  color: rgb(210, 210, 210);
+h2 {
   text-align: center;
 }
 
-.dark-theme p {
-  color: antiquewhite;
+p {
   font-family: sans-serif;
   text-align: left;
 }
 
-.dark-theme body {
+.dark-theme {
+  color: rgb(226, 230, 237);
   background-color: rgb(23, 23, 23);
 }
